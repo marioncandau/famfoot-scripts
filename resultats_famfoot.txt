@@ -1,0 +1,345 @@
+*  Coupe de Nouvelle Aquitaine f&eacute;minine
+0coupe-de-nouvelle-aquitaine-feminine
+https://lfna.fff.fr/competitions/?id=361828&poule=1&phase=1&type=cp&tab=resultat
+/* R&eacute;gionale 1 - Nord
+0r1
+https://lfna.fff.fr/competitions/?id=361823&poule=1&phase=1&type=ch&tab=calendar
+/* R&eacute;gionale 1 - Sud
+0r1
+https://lfna.fff.fr/competitions/?id=361823&poule=2&phase=1&type=ch&tab=calendar
+/* R&eacute;gionale 2 - Nord
+0r2
+https://lfna.fff.fr/competitions/?id=361824&poule=1&phase=1&type=ch&tab=calendar
+/* R&eacute;gionale 2 - Sud
+0r2
+https://lfna.fff.fr/competitions/?id=361824&poule=2&phase=1&type=ch&tab=calendar
+/* U14F - U17F R&eacute;gional &agrave; 11 - Poule A - Niveau 1
+0u14f-u17F-regional-a-11
+https://lfna.fff.fr/competitions/?id=361825&poule=1&phase=3&type=ch&tab=calendar
+/* U14F - U17F R&eacute;gional &agrave; 11 - Poule B - Niveau 1
+0u14f-u17F-regional-a-11
+https://lfna.fff.fr/competitions/?id=361825&poule=2&phase=3&type=ch&tab=calendar
+/* U14F - U17F R&eacute;gional &agrave; 11 - Poule C - Niveau 1
+0u14f-u17F-regional-a-11
+https://lfna.fff.fr/competitions/?id=361825&poule=3&phase=3&type=ch&tab=calendar
+/* U14F - U17F R&eacute;gional &agrave; 11 - Poule D - Niveau 2
+0u14f-u17F-regional-a-11
+https://lfna.fff.fr/competitions/?id=361825&poule=4&phase=3&type=ch&tab=calendar
+/* U14F - U17F R&eacute;gional &agrave; 11 - Poule E - Niveau 2
+0u14f-u17F-regional-a-11
+https://lfna.fff.fr/competitions/?id=361825&poule=5&phase=3&type=ch&tab=calendar
+/* U14F - U17F R&eacute;gional &agrave; 11 - Poule F - Niveau 2
+0u14f-u17F-regional-a-11
+https://lfna.fff.fr/competitions/?id=361825&poule=6&phase=3&type=ch&tab=calendar
+/* U14F - U17F R&eacute;gional &agrave; 11 - Poule G - Niveau 2
+0u14f-u17F-regional-a-11
+https://lfna.fff.fr/competitions/?id=361825&poule=7&phase=3&type=ch&tab=calendar
+/* U14F-U17F R&eacute;gional &agrave; 8 - Poule A - Niveau 1
+0u14f-u17f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371572&poule=1&phase=1&type=ch&tab=calendar
+/* U14F-U17F R&eacute;gional &agrave; 8 - Poule B - Niveau 1
+0u14f-u17f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371572&poule=2&phase=1&type=ch&tab=calendar
+/* U14F-U17F R&eacute;gional &agrave; 8 - Poule C - Niveau 1
+0u14f-u17f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371572&poule=3&phase=1&type=ch&tab=calendar
+/* U14F-U17F R&eacute;gional &agrave; 8 - Poule D - Niveau 1
+0u14f-u17f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371572&poule=4&phase=1&type=ch&tab=calendar
+/* U11F - U13F R&eacute;gional &agrave; 8 - Poule A - Niveau 1
+0u11f-u13f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371573&poule=1&phase=1&type=ch&tab=calendar
+/* U11F - U13F R&eacute;gional &agrave; 8 - Poule B - Niveau 1
+0u11f-u13f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371573&poule=2&phase=1&type=ch&tab=calendar
+/* U11F - U13F R&eacute;gional &agrave; 8 - Poule C - Niveau 1
+0u11f-u13f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371573&poule=3&phase=1&type=ch&tab=calendar
+/* U11F - U13F R&eacute;gional &agrave; 8 - Poule D - Niveau 1
+0u11f-u13f-regional-a-8
+https://lfna.fff.fr/competitions/?id=371573&poule=4&phase=1&type=ch&tab=calendar
+*  Coupe de Nouvelle Aquitaine U14F-U17F
+0coupe-nouvelle-aquitaine-u14f-u17f
+https://lfna.fff.fr/competitions/?id=362669&poule=1&phase=1&type=cp&tab=resultat
+/* Charente / Charente-Maritime - Poule Unique
+0interdistrict-charente-charente-maritime
+https://foot16.fff.fr/competitions/?id=366064&poule=1&phase=1&type=ch&tab=calendar
+/* Interdistrict Limousin (Creuse / Corr&egrave;ze / Haute-Vienne) - D1
+0interdistrict-creuse-correze-haute-vienne
+https://foot23.fff.fr/competitions/?id=364763&poule=1&phase=2&type=ch&tab=calendar
+/* Interdistrict Limousin (Creuse / Corr&egrave;ze / Haute-Vienne) - D2
+0interdistrict-creuse-correze-haute-vienne
+https://foot23.fff.fr/competitions/?id=364763&poule=1&phase=3&type=ch&tab=calendar
+/* Interdistrict Lot-et-Garonne / Dordogne - Poule Unique
+0interdistrict-24-47
+https://dordogne-perigord.fff.fr/competitions/?id=368570&poule=1&phase=1&type=ch&tab=calendar
+/* D1 Gironde (avec Pyr&eacute;n&eacute;es Atlantiques) - Poule Unique
+0d1-gironde-a-11
+https://gironde.fff.fr/competitions/?id=368212&poule=1&phase=1&type=ch&tab=calendar
+/* D2 Gironde (avec Pyr&eacute;n&eacute;es Atlantiques) - Poule Unique
+0d2-gironde
+https://gironde.fff.fr/competitions/?id=368213&poule=1&phase=1&type=ch&tab=calendar
+/* D1 Vienne / Deux-S&egrave;vres - Poule unique
+0d1-interdistrict-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=365117&poule=1&phase=1&type=ch&tab=calendar
+/* D2 Brassage Vienne / Deux S&egrave;vres - Poule A
+0d2-brassage-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=365118&poule=1&phase=1&type=ch&tab=calendar
+/* D2 Brassage Vienne / Deux S&egrave;vres - Poule B
+0d2-brassage-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=365118&poule=2&phase=1&type=ch&tab=calendar
+/* D2 Brassage Vienne / Deux S&egrave;vres - Poule C
+0d2-brassage-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=365118&poule=3&phase=1&type=ch&tab=calendar
+/* D2 Brassage Vienne / Deux S&egrave;vres - Poule D
+0d2-brassage-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=365118&poule=4&phase=1&type=ch&tab=calendar
+/* Charente / Charente Maritime &agrave; 8 - Elite - Poule Unique
+0interdistrict-charente-charente-maritime-a-8-elite
+https://foot16.fff.fr/competitions/?id=371961&poule=1&phase=1&type=ch&tab=calendar
+/* Charente / Charente Maritime &agrave; 8 - Evolutive - Poule Unique
+0interdistrict-charente-charente-maritime-a-8-evolutive
+https://foot16.fff.fr/competitions/?id=371962&poule=1&phase=1&type=ch&tab=calendar
+/* Corr&egrave;ze - D&eacute;partemental 1
+0correze-a-8
+https://foot19.fff.fr/competitions/?id=366866&poule=1&phase=2&type=ch&tab=calendar
+/* Corr&egrave;ze - D&eacute;partemental 2
+0correze-a-8
+https://foot19.fff.fr/competitions/?id=366866&poule=2&phase=2&type=ch&tab=calendar
+/* Creuse 1&egrave;re division - Poule unique
+0creuse-1-ere-division
+https://foot23.fff.fr/competitions/?id=364519&poule=1&phase=1&type=ch&tab=calendar
+/* Creuse 2&egrave;me division - Poule Unique
+0creuse-2emedivision
+https://foot23.fff.fr/competitions/?id=364520&poule=1&phase=1&type=ch&tab=calendar
+/* Interdistrict Lot-et-Garonne - Dordogne &agrave; 8 - Poule Unique
+0interdistrict-dordogne-lot-et-garonne-8
+https://dordogne-perigord.fff.fr/competitions/?id=371989&poule=1&phase=1&type=ch&tab=calendar
+/* Dordogne 1&egrave;re division - Poule Unique
+0dordogne-1-ere-division
+https://dordogne-perigord.fff.fr/competitions/?id=371990&poule=1&phase=1&type=ch&tab=calendar
+/* Dordogne 2&egrave;me division - Poule Unique
+0dordogne-2-eme-division
+https://dordogne-perigord.fff.fr/competitions/?id=371991&poule=1&phase=1&type=ch&tab=calendar
+/* Gironde D1 &agrave; 8 - Poule Unique
+0gironde1-a-8
+https://gironde.fff.fr/competitions/?id=368209&poule=1&phase=1&type=ch&tab=calendar
+/* Gironde D2 &agrave; 8 - Poule A
+0gironde2-a-8
+https://gironde.fff.fr/competitions/?id=368210&poule=1&phase=1&type=ch&tab=calendar
+/* Gironde D2 &agrave; 8 - Poule B
+0gironde2-a-8
+https://gironde.fff.fr/competitions/?id=368210&poule=2&phase=1&type=ch&tab=calendar
+/* Gironde D2 &agrave; 8 - Poule C
+0gironde2-a-8
+https://gironde.fff.fr/competitions/?id=368210&poule=3&phase=1&type=ch&tab=calendar
+/* Landes / Pyr&eacute;n&eacute;es Atlantiques - 1&egrave;re division - Poule Unique
+0landes1
+https://landes.fff.fr/competitions/?id=364928&poule=1&phase=1&type=ch&tab=calendar
+/* Landes / Pyr&eacute;n&eacute;es Atlantiques 2&egrave;me division - Poule A
+0landes2
+https://landes.fff.fr/competitions/?id=364929&poule=1&phase=1&type=ch&tab=calendar
+/* Landes / Pyr&eacute;n&eacute;es Atlantiques 2&egrave;me division - Poule B
+0landes2
+https://landes.fff.fr/competitions/?id=364929&poule=2&phase=1&type=ch&tab=calendar
+/* Landes / Pyr&eacute;n&eacute;es Atlantiques 2&egrave;me division - Poule C
+0landes2
+https://landes.fff.fr/competitions/?id=364929&poule=3&phase=1&type=ch&tab=calendar
+/* Lot-et-Garonne Honneur &agrave; 8 - Poule Unique
+0lot1
+https://lot-et-garonne.fff.fr/competitions/?id=371818&poule=1&phase=1&type=ch&tab=calendar
+/* Lot-et-Garonne District &agrave; 8 - Poule Unique
+0lot2
+https://lot-et-garonne.fff.fr/competitions/?id=371820&poule=1&phase=1&type=ch&tab=calendar
+/* Vienne / Deux S&egrave;vres &agrave; 8 - Poule A
+0interdistrict-vienne-deux-sevres-a-8
+https://foot79.fff.fr/competitions/?id=365186&poule=1&phase=1&type=ch&tab=calendar
+/* Vienne / Deux S&egrave;vres &agrave; 8 - Poule B
+0interdistrict-vienne-deux-sevres-a-8
+https://foot79.fff.fr/competitions/?id=365186&poule=2&phase=1&type=ch&tab=calendar
+/* Haute Vienne D1 &agrave; 8 - Poule Unique
+0haute-vienne-d1-a-8
+https://foot87.fff.fr/competitions/?id=368874&poule=1&phase=1&type=ch&tab=calendar
+/* Haute Vienne D2 &agrave; 8 - Poule A
+0haute-vienne-d2-a-8
+https://foot87.fff.fr/competitions/?id=368876&poule=1&phase=1&type=ch&tab=calendar
+/* Haute Vienne D2 &agrave; 8 - Poule B
+0haute-vienne-d2-a-8
+https://foot87.fff.fr/competitions/?id=368876&poule=2&phase=1&type=ch&tab=calendar
+/* U11F-U13F Charente/Charente-Maritime - Poule B D2 Niveau 2
+0u11f-u13f-charente-maritime
+https://foot17.fff.fr/competitions/?id=363723&poule=1&phase=4&type=ch&tab=calendar
+/* U11F-U13F Charente/Charente-Maritime - Poule C D3 Niveau 3
+0u11f-u13f-charente-maritime
+https://foot17.fff.fr/competitions/?id=363723&poule=2&phase=4&type=ch&tab=calendar
+/* U14F-U17F Charente/Charente-Maritime - Poule A - D1 Niveau 1
+0u14f-u17F-charente-maritime
+https://foot17.fff.fr/competitions/?id=363722&poule=1&phase=3&type=ch&tab=calendar
+/* U14F-U17F Charente/Charente-Maritime - Poule B - D2 Niveau 2
+0u14f-u17F-charente-maritime
+https://foot17.fff.fr/competitions/?id=363722&poule=2&phase=3&type=ch&tab=calendar
+/* U14F-U17F Charente/Charente-Maritime - Poule C - D3 Niveau 3
+0u14f-u17F-charente-maritime
+https://foot17.fff.fr/competitions/?id=363722&poule=3&phase=3&type=ch&tab=calendar
+/* U11F-U13F Limousin - Poule A - Niveau 1
+0u11f-u13f-limousin
+https://foot19.fff.fr/competitions/?id=368087&poule=1&phase=3&type=ch&tab=calendar
+/* U11F-U13F Limousin - Poule B - Niveau 2
+0u11f-u13f-limousin
+https://foot19.fff.fr/competitions/?id=368087&poule=2&phase=3&type=ch&tab=calendar
+/* U11F-U13F Limousin - Poule C - Niveau 3
+0u11f-u13f-limousin
+https://foot19.fff.fr/competitions/?id=368087&poule=3&phase=3&type=ch&tab=calendar
+/* U14F-U17F Limousin - Poule A - Niveau 1
+0u14f-u17f-limousin
+https://foot19.fff.fr/competitions/?id=368086&poule=1&phase=3&type=ch&tab=calendar
+/* U14F-U17F Limousin - Poule B - Niveau 2
+0u14f-u17f-limousin
+https://foot19.fff.fr/competitions/?id=368086&poule=2&phase=3&type=ch&tab=calendar
+/* U11F-U13F Dordogne Lot-et-Garonne - Poule A
+0u11f-u13f-dordogne-lot-et-garonne
+https://dordogne-perigord.fff.fr/competitions/?id=369124&poule=1&phase=3&type=ch&tab=calendar
+/* U11F-U13F Dordogne Lot-et-Garonne - Poule B
+0u11f-u13f-dordogne-lot-et-garonne
+https://dordogne-perigord.fff.fr/competitions/?id=369124&poule=2&phase=3&type=ch&tab=calendar
+/* U14F-U17F Dordogne Lot-et-Garonne - Poule A
+0u14f-u17f-dordogne-lot-et-garonne
+https://dordogne-perigord.fff.fr/competitions/?id=369123&poule=1&phase=3&type=ch&tab=calendar
+/* U14F-U17F Dordogne Lot-et-Garonne - Poule B
+0u14f-u17f-dordogne-lot-et-garonne
+https://dordogne-perigord.fff.fr/competitions/?id=369123&poule=2&phase=3&type=ch&tab=calendar
+/* U13F D&eacute;partemental 1 Gironde - Poule Unique
+0u13f-departemental-1-gironde
+https://gironde.fff.fr/competitions/?id=372351&poule=1&phase=1&type=ch&tab=calendar
+/* U13F D&eacute;partemental 2 Gironde - Poule Unique
+0u13f-departemental-2-gironde
+https://gironde.fff.fr/competitions/?id=372352&poule=1&phase=1&type=ch&tab=calendar
+/* U13F D&eacute;partemental 3 Gironde - Poule A
+0u13f-departemental-3-gironde
+https://gironde.fff.fr/competitions/?id=372355&poule=1&phase=1&type=ch&tab=calendar
+/* U13F D&eacute;partemental 3 Gironde - Poule B
+0u13f-departemental-3-gironde
+https://gironde.fff.fr/competitions/?id=372355&poule=2&phase=1&type=ch&tab=calendar
+/* U17F D&eacute;partemental 1 Gironde - Poule Unique
+0u17f-departemental-1-gironde
+https://gironde.fff.fr/competitions/?id=372356&poule=1&phase=1&type=ch&tab=calendar
+/* U17F D&eacute;partemental 2 Gironde - Poule Unique
+0u17f-departemental-2-gironde
+https://gironde.fff.fr/competitions/?id=372358&poule=1&phase=1&type=ch&tab=calendar
+/* U13F Pyr&eacute;n&eacute;es Atlantiques - Poule A
+0u13F-pyrenees-atlantiques
+https://footpyr64.fff.fr/competitions/?id=372149&poule=1&phase=1&type=ch&tab=calendar
+/* U13F Pyr&eacute;n&eacute;es Atlantiques - Poule B
+0u13F-pyrenees-atlantiques
+https://footpyr64.fff.fr/competitions/?id=372149&poule=2&phase=1&type=ch&tab=calendar
+/* U13F Pyr&eacute;n&eacute;es Atlantiques - Poule C
+0u13F-pyrenees-atlantiques
+https://footpyr64.fff.fr/competitions/?id=372149&poule=3&phase=1&type=ch&tab=calendar
+/* U17F Pyr&eacute;n&eacute;es Atlantiques - Poule A
+0u17f-pyrenees-atlantiques
+https://footpyr64.fff.fr/competitions/?id=372148&poule=1&phase=1&type=ch&tab=calendar
+/* U17F Pyr&eacute;n&eacute;es Atlantiques - Poule B
+0u17f-pyrenees-atlantiques
+https://footpyr64.fff.fr/competitions/?id=372148&poule=2&phase=1&type=ch&tab=calendar
+/* U17F Pyr&eacute;n&eacute;es Atlantiques - Poule C
+0u17f-pyrenees-atlantiques
+https://footpyr64.fff.fr/competitions/?id=372148&poule=3&phase=1&type=ch&tab=calendar
+/* U14F - U17F Vienne/Deux S&egrave;vres - Niveau 1 - Poule A
+0u14f-u17f-vienne-deux-sevres-niveau-1
+https://foot79.fff.fr/competitions/?id=365809&poule=1&phase=3&type=ch&tab=calendar
+/* U14F-U17F Vienne/Deux-S&egrave;vres - Niveau 2 - Poule B
+0u14f-u17f-vienne-deux-sevres-niveau-2
+https://foot79.fff.fr/competitions/?id=369522&poule=1&phase=2&type=ch&tab=calendar
+/* U14F-U17F Vienne/Deux-S&egrave;vres - Niveau 3 - Poule C
+0u14f-u17f-vienne-deux-sevres-niveau-3
+https://foot79.fff.fr/competitions/?id=372150&poule=1&phase=1&type=ch&tab=calendar
+/* U14F-U17F Vienne/Deux-S&egrave;vres - Niveau 3 - Poule D
+0u14f-u17f-vienne-deux-sevres-niveau-3
+https://foot79.fff.fr/competitions/?id=372150&poule=2&phase=1&type=ch&tab=calendar
+/* U11F - U13F Vienne/Deux-S&egrave;vres - Poule A
+0u11f-u13f-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=366227&poule=1&phase=5&type=ch&tab=calendar
+/* U11F - U13F Vienne/Deux-S&egrave;vres - Poule B
+0u11f-u13f-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=366227&poule=2&phase=5&type=ch&tab=calendar
+/* U11F - U13F Vienne/Deux-S&egrave;vres - Poule C
+0u11f-u13f-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=366227&poule=3&phase=5&type=ch&tab=calendar
+/* U11F - U13F Vienne/Deux-S&egrave;vres - Poule D
+0u11f-u13f-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=366227&poule=4&phase=5&type=ch&tab=calendar
+/* U11F - U13F Vienne/Deux-S&egrave;vres - Poule E
+0u11f-u13f-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=366227&poule=1&phase=5&type=ch&tab=calendar
+/* U11F - U13F Vienne/Deux-S&egrave;vres - Poule F
+0u11f-u13f-vienne-deux-sevres
+https://foot86.fff.fr/competitions/?id=366227&poule=2&phase=5&type=ch&tab=calendar
+*  Coupe Charente/Charente-Maritime &agrave; 11
+0coupe-charente-11
+https://foot16.fff.fr/competitions/?id=367586&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe Charente/Charente-Maritime &agrave; 8
+0coupe-charente-8
+https://foot16.fff.fr/competitions/?id=367587&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe de la Charente-Maritime
+0coupe-charente-maritime
+https://foot17.fff.fr/competitions/?id=363730&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe U11F/U13F Charente Maritime
+0coupe-u11f-u13f-charente-maritime
+https://foot17.fff.fr/competitions/?id=363733&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe U14F/U17F Charente Maritime &agrave; 11
+0coupe-u14f-u17f-charente-maritime-a-11
+https://foot17.fff.fr/competitions/?id=369467&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe U14F/U17F Charente Maritime &agrave; 8
+0coupe-u14f-u17F-charente-maritime-a-8
+https://foot17.fff.fr/competitions/?id=363731&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe de Corr&egrave;ze &agrave; 11
+0coupe-correze-a-11
+https://foot19.fff.fr/competitions/?id=366869&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe de Corr&egrave;ze &agrave; 8
+0coupe-a-8-correze
+https://foot19.fff.fr/competitions/?id=366867&poule=1&phase=1&type=cp&tab=resultat
+*  Challenge &agrave; 8 de Dordogne
+0challenge-a-8-dordogne
+https://dordogne-perigord.fff.fr/competitions/?id=368535&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe de Gironde &agrave; 11
+0coupe-de-gironde-a-11
+https://gironde.fff.fr/competitions/?id=368231&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe de Gironde &agrave; 8
+0coupe-de-gironde-a-8
+https://gironde.fff.fr/competitions/?id=368232&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe U17F Gironde
+0coupe-u17f-gironde
+https://gironde.fff.fr/competitions/?id=368234&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe des Landes &agrave; 8
+0coupe-des-landes-a-8
+https://landes.fff.fr/competitions/?id=364935&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe Fabienne Saint Martin
+0coupe-fabienne-saint-martin
+https://lot-et-garonne.fff.fr/competitions/?id=369325&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe du Lot-et-Garonne Consolante
+0coupe-lot-et-garonne-consolante
+https://lot-et-garonne.fff.fr/competitions/?id=372663&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe des Pyr&eacute;n&eacute;es Atlantiques &agrave; 8
+0coupe-pyrenees-atlantiques
+https://footpyr64.fff.fr/competitions/?id=367093&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe du Poitou &agrave; 8 - Poule A
+0coupe-du-poitou-a-8
+https://foot79.fff.fr/competitions/?id=365187&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe du Poitou &agrave; 8 - Poule B
+0coupe-du-poitou-a-8
+https://foot79.fff.fr/competitions/?id=365187&poule=2&phase=1&type=cp&tab=resultat
+*  Coupe du Poitou &agrave; 8 - Poule C
+0coupe-du-poitou-a-8
+https://foot79.fff.fr/competitions/?id=365187&poule=3&phase=1&type=cp&tab=resultat
+*  Coupe du Poitou &agrave; 8 - Poule D
+0coupe-du-poitou-a-8
+https://foot79.fff.fr/competitions/?id=365187&poule=4&phase=1&type=cp&tab=resultat
+*  Coupe du Poitou
+0coupe-du-poitou
+https://foot86.fff.fr/competitions/?id=365119&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe du Limousin &agrave; 11
+0coupe-du-limousin-a-11
+https://foot87.fff.fr/competitions/?id=364775&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe f&eacute;minine &agrave; 8 de la Haute Vienne
+0coupe-a-8-haute-vienne
+https://foot87.fff.fr/competitions/?id=364774&poule=1&phase=1&type=cp&tab=resultat
