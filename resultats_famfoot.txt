@@ -1,6 +1,6 @@
-*  Coupe de Nouvelle Aquitaine f&eacute;minine
-0coupe-de-nouvelle-aquitaine-feminine
-https://lfna.fff.fr/competitions/?id=361828&poule=1&phase=1&type=cp&tab=resultat
+*  Coupe de France
+0coupe-de-france
+https://lfna.fff.fr/competitions/?id=373172&poule=1&phase=1&type=cp&current=1&tab=resultat
 /* R&eacute;gionale 1 - Nord
 0r1
 https://lfna.fff.fr/competitions/?id=361823&poule=1&phase=1&type=ch&tab=calendar

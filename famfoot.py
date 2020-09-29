@@ -263,6 +263,7 @@ def get_score(i, page):
         if http_pos_0 == -1:
             if(tmp_score == ""):
                 tmp_score = " ?";
+            tmp_score += get_penalty(i, page);
             return tmp_score;
         # On vérifie s'il y a un tiret entre les images
         if nb >= 1 and page.find("-", old_http_pos_1, http_pos_0) != -1:
@@ -276,7 +277,15 @@ def get_score(i, page):
         hash_img = md5.hexdigest() ;
         nb+= 1 ;
         tmp_score += str(dico[hash_img]) ;
+
+    tmp_score += get_penalty(i, page);
     return tmp_score;
+
+def get_penalty(i, page):
+    penaltypos = page.find('<div class="score_match_penalty">',i) + len('<div class="score_match_penalty">');
+    endpenaltypos = page.find("</div>", penaltypos);
+    penalty = page[penaltypos:endpenaltypos];
+    return penalty;
 
 def html_classement(link):
     i = len(link) - 1;
