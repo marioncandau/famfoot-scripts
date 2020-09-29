@@ -1,17 +1,45 @@
-Delphine Marot	ES Eysines	1
-Pauline Nadol	ES Eysines	1
+Delphine Marot	ES Eysines	2
+Pauline Nadol	ES Eysines	4
 Lilou Margalef	ES Eysines	1
 Assia Razak	ASMUR	1
 Laetitia Gueler	ASMUR	1
 Manon Dufilh	ASMUR	1
-Sarah Chige	ASMUR	2
-Laura Dormal	ES Montoise	2
+Sarah Chige	ASMUR	3
+Laura Dormal	ES Montoise	5
 Diana Candido	ES Montoise	2
-Christelle Gourdon	ES Montoise	1
+Christelle Gourdon	ES Montoise	2
 Amély Denis	UA Cognac	2
-Amélie Menier	CS Saint Michel	2
-Lydie Delavallade	CS Saint Michel	2
+Amélie Menier	CS Saint Michel	3
+Lydie Delavallade	CS Saint Michel	4
 Vanessa Paillé	CS Saint Michel	1
 Emma Denis	CS Saint Michel	1
-Joy Hoel	ES Canéjan	2
+Joy Hoel	ES Canéjan	3
 Caroline Bernadet	ES Canéjan	1
+Erika Augustin	ES Eysines	1
+Emma Dupouy	ES Eysines	1
+Véronique Auer	ES Eysines	1
+Carole Thual	Mérignac Arlac	2
+Léa Palfray	Mérignac Arlac	3
+Manon Correia	Mérignac Arlac	1
+Flora Aksas	Mérignac Arlac	1
+Léa Raen	Mérignac Arlac	1
+Jade Mascle	ES Canéjan	1
+Sophie Blanco	ES Montoise	1
+Alizé Rinaldi	UA Cognac	1
+Sarah Oucif	UA Cognac	1
+Ezilda Bastié	UA Cognac	1
+Laura Lodetti	FC Marmande	3
+Kim Bares	FC Marmande	1
+Laura Cejudo	FC Talence	2
+Jessica Galvao	FC Talence	1
+Charlène Renard	FC Talence	1
+Blandine de Sousa	Mérignac Arlac	3
+Lina Benaissa	Mérignac Arlac	2
+Sabrina Sfair	Mérignac Arlac	1
+Anne Charlotte Dion	FC Talence	1
+Elina Andre	FC Talence	1
+Elora Aoussar	ASMUR	3
+Yolande Keke	Stade Bordelais	1
+Noémie Millac	CS Saint Michel	1
+Léna Julien	ES Eysines	1
+Elisabeth Selta	ES Eysines	1

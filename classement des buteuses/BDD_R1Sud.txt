@@ -3,13 +3,33 @@ Jessica Piens	ES Eysines	1
 Chaima Bahassa	FC Libourne	1
 Marcellia Virenque	ASMUR	1
 Chloé Chrisostome	ASMUR	1
-Mélanie Di Meglio	ASMUR	1
-Lison Hoqui	ASMUR	2
-Ozge Oner	FC Gradignan	1
+Mélanie Di Meglio	ASMUR	4
+Lison Hoqui	ASMUR	3
+Ozge Oner	FC Gradignan	2
 Juliette Loumagne	FC Gradignan	1
 Anaïs Anty	Genets d'Anglet	1
-Priscilla Malon	CMO Bassens	1
-Melody Bazangette	Aviron Bayonnais	1
+Priscilla Malon	CMO Bassens	2
+Melody Bazangette	Aviron Bayonnais	2
 Annabelle Faure	Bergerac PFC	2
-Elodie Zaïda	Bergerac PFC	2
-Nawell Laoudihi	Bergerac PFC	1
+Elodie Zaïda	Bergerac PFC	3
+Nawell Laoudihi	Bergerac PFC	2
+Léa Mannon	CMO Bassens	1
+Maeva Gay	Genets d'Anglet	1
+Anaïs Rodriguez	Genets d'Anglet	1
+Lucie Lafitte	Genets d'Anglet	1
+Eva Delhomelle	FC Libourne	2
+Julie Masdupuy	FC Libourne	2
+Léa Loustau	ASMUR	2
+Elora Aoussar	ASMUR	1
+Imane Ettayb	ASMUR	2
+Mélissa Saudubois	FC Gradignan	4
+Fidélia Poussi	FC Gradignan	1
+Mélissa Maintenat	FC Gradignan	2
+Noa Geniaux	Girondins Bordeaux	1
+Eléa Taffin	Girondins Bordeaux	2
+Lucile Ossul	FC Gradignan	1
+Amélie Tiret	Aviron Bayonnais	1
+Jessica Dupire	Stade Bordelais	1
+Mélodie Jacquet	Stade Bordelais	1
+Janice Winter	Stade Bordelais	1
+Pauline Nicolas	ASMUR	2
