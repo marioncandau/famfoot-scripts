@@ -12,7 +12,7 @@ catch (Exception $e)
 
 $fp = fopen ("resultats_famfoot.txt", "wb");
 
-$query = $bdd->query("SELECT * FROM champ_aqu WHERE tri > 10 ORDER BY tri");
+$query = $bdd->query("SELECT * FROM champ_aqu WHERE tri > 5 ORDER BY tri");
 while($row = $query->fetch()) {
 	$lien = $row['lien'];
 	$nom_champ = $row['nom'];
@@ -88,7 +88,7 @@ if ($fp)
 					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."', score = '".$j->{'score'}."', forfait_equipe1 = ".$j->{'forfait1'}.", forfait_equipe2 = ".$j->{'forfait2'}.", forfaitgeneral1 = ".$j->{'forfaitgeneral1'}.", forfaitgeneral2 = ".$j->{'forfaitgeneral2'}." WHERE matchid = ".$j->{'numero'});
 				}
 				else {
-					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."' WHERE matchid = ".$j->{'numero'});
+					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."', equipe1='".$j->{'equipe1'}."', equipe2='".$j->{'equipe2'}."' WHERE matchid = ".$j->{'numero'});
 				}
 			}
 			else {
