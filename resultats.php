@@ -12,7 +12,7 @@ catch (Exception $e)
 
 $fp = fopen ("resultats_famfoot.txt", "wb");
 
-$query = $bdd->query("SELECT * FROM champ_aqu WHERE tri > 10 ORDER BY tri");
+$query = $bdd->query("SELECT * FROM champ_aqu WHERE tri > 5 ORDER BY tri");
 while($row = $query->fetch()) {
 	$lien = $row['lien'];
 	$nom_champ = $row['nom'];
