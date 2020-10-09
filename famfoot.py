@@ -230,16 +230,21 @@ def retrieve_champ(page):
     return champ
 
 def retrieve_tour(page):
-    pos=page.find("<div class=\"date_tour\">") + len("<div class=\"date_tour\">") + 2
-    pos1=page.find("</div>", pos)
-    tour = ""
-    i = pos
+    pos=page.find("<div class=\"date_tour\">") + len("<div class=\"date_tour\">") + 2;
+    if(pos == len("<div class=\"date_tour\">") + 1):
+        return ""
+    pos1=page.find("</div>", pos);
+    tour = "";
+    i = pos;
     while(page[i] == " "):
-        i = i + 1
-    for j in range(i, pos1):
-        tour+=page[j]
+        i = i + 1;
+    k = pos1-1;
+    while(page[k] == " "):
+        k = k - 1;
+    for j in range(i, k+1):
+        tour+=page[j];
     
-    return tour
+    return tour;
 
 def retrieve_ligue(url):
     i = 7

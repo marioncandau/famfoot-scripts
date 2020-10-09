@@ -16,8 +16,6 @@ def build_tab_agenda(html, url, g, bonnedate, champ_name, coupe, slug):
             result = 1;
     for date in c:
         if(date != ""):
-            print(date)
-            print(url)
             a = famfoot.gather_matchs(html, date, url, coupe, 0);
             # recuperer numero du match dans gather_match
             for t in a:
@@ -70,11 +68,15 @@ for line in f:
         try:
             req = urllib.request.Request(line, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'})
             response = urllib.request.urlopen(req);
-            time.sleep(4)
         except:
-            print("erreur on line: " + str(line));
+            print("erreur on line: " + line);
             time.sleep(4);
-            response = urllib.request.urlopen(req);
+            try:
+                response = urllib.request.urlopen(req);
+            except:
+                if(datefile):
+                    datefile.write(str(datew));
+                    datefile.close();
         if(response != 0):
             html = str(response.read().decode('utf-8'));
             if(coupe == 1):
@@ -82,12 +84,19 @@ for line in f:
                 champ_name = champ_name + " - " + k;
             g = open("agenda.json", "a");
             bonnedate  = famfoot.next_week_end();
-            build_tab_agenda(html, line, g, bonnedate, champ_name, coupe, slug);
+            try:
+                build_tab_agenda(html, line, g, bonnedate, champ_name, coupe, slug);
+            except:
+                if(datefile):
+                    datefile.write(str(datew));
+                    datefile.close();
             g.close();
 
-datefile.write(str(datew));
+if(datefile):
+    datefile.write(str(datew));
+    datefile.close();
 g.close();
 f.close();
-datefile.close();
+
 
 
