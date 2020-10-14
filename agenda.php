@@ -84,7 +84,7 @@ if ($fp)
 		if($j != NULL) {
 			$query = $bdd->query("SELECT * FROM matchs WHERE matchid = ".$j->{'numero'});
 			if($row = $query->fetch()) {
-				if($j->{'score'} != " ?") {
+				if(($j->{'score'} != " ?") or (($j->{'score'} == " ?") and (($row['score'] == 'Report&eacute') or ($row['score'] == 'Report&eacute;')))) {
 					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."', score = '".$j->{'score'}."', forfait_equipe1 = ".$j->{'forfait1'}.", forfait_equipe2 = ".$j->{'forfait2'}.", forfaitgeneral1 = ".$j->{'forfaitgeneral1'}.", forfaitgeneral2 = ".$j->{'forfaitgeneral2'}." WHERE matchid = ".$j->{'numero'});
 				}
 				else {

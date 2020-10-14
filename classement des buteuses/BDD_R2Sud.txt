@@ -18,12 +18,12 @@ Caroline Bernadet	ES Canéjan	1
 Erika Augustin	ES Eysines	1
 Emma Dupouy	ES Eysines	1
 Véronique Auer	ES Eysines	1
-Carole Thual	Mérignac Arlac	2
+Carole Thual	Mérignac Arlac	5
 Léa Palfray	Mérignac Arlac	3
-Manon Correia	Mérignac Arlac	1
+Manon Correia	Mérignac Arlac	3
 Flora Aksas	Mérignac Arlac	1
 Léa Raen	Mérignac Arlac	1
-Jade Mascle	ES Canéjan	1
+Jade Mascle	ES Canéjan	2
 Sophie Blanco	ES Montoise	1
 Alizé Rinaldi	UA Cognac	1
 Sarah Oucif	UA Cognac	1
@@ -33,13 +33,19 @@ Kim Bares	FC Marmande	1
 Laura Cejudo	FC Talence	2
 Jessica Galvao	FC Talence	1
 Charlène Renard	FC Talence	1
-Blandine de Sousa	Mérignac Arlac	3
-Lina Benaissa	Mérignac Arlac	2
+Blandine de Sousa	Mérignac Arlac	4
+Lina Benaissa	Mérignac Arlac	3
 Sabrina Sfair	Mérignac Arlac	1
 Anne Charlotte Dion	FC Talence	1
 Elina Andre	FC Talence	1
 Elora Aoussar	ASMUR	3
 Yolande Keke	Stade Bordelais	1
-Noémie Millac	CS Saint Michel	1
-Léna Julien	ES Eysines	1
-Elisabeth Selta	ES Eysines	1
+Noémie Millac	CS Saint Michel	2
+Léna Julien	ES Eysines	2
+Elisabeth Selta	ES Eysines	4
+Shanya Aouni	Mérignac Arlac	1
+Chloé Valençon	CS Saint Michel	1
+Linda Gargat	FC Marmande	1
+Mélanie Toto	ES Canéjan	1
+Nina Marguerettaz	SU Agen	1
+Mylène Ferrandon	FC Talence	1

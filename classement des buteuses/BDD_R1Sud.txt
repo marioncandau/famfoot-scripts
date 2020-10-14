@@ -6,8 +6,8 @@ Chloé Chrisostome	ASMUR	1
 Mélanie Di Meglio	ASMUR	4
 Lison Hoqui	ASMUR	3
 Ozge Oner	FC Gradignan	2
-Juliette Loumagne	FC Gradignan	1
-Anaïs Anty	Genets d'Anglet	1
+Juliette Loumagne	FC Gradignan	2
+Anaïs Anty	Genets d'Anglet	2
 Priscilla Malon	CMO Bassens	2
 Melody Bazangette	Aviron Bayonnais	2
 Annabelle Faure	Bergerac PFC	2
@@ -17,7 +17,7 @@ Léa Mannon	CMO Bassens	1
 Maeva Gay	Genets d'Anglet	1
 Anaïs Rodriguez	Genets d'Anglet	1
 Lucie Lafitte	Genets d'Anglet	1
-Eva Delhomelle	FC Libourne	2
+Eva Delhomelle	FC Libourne	3
 Julie Masdupuy	FC Libourne	2
 Léa Loustau	ASMUR	2
 Elora Aoussar	ASMUR	1
@@ -26,10 +26,17 @@ Mélissa Saudubois	FC Gradignan	4
 Fidélia Poussi	FC Gradignan	1
 Mélissa Maintenat	FC Gradignan	2
 Noa Geniaux	Girondins Bordeaux	1
-Eléa Taffin	Girondins Bordeaux	2
+Eléa Taffin	Girondins Bordeaux	3
 Lucile Ossul	FC Gradignan	1
 Amélie Tiret	Aviron Bayonnais	1
-Jessica Dupire	Stade Bordelais	1
-Mélodie Jacquet	Stade Bordelais	1
-Janice Winter	Stade Bordelais	1
+Jessica Dupire	Stade Bordelais	2
+Mélodie Jacquet	Stade Bordelais	2
+Janice Winter	Stade Bordelais	4
 Pauline Nicolas	ASMUR	2
+Maëva Reiz	Genets d'Anglet	1
+Joanna Martins	ES Eysines	2
+Mylène Godeberg	Aviron Bayonnais	1
+Emma Lassave	Aviron Bayonnais	1
+Océane Dubreuil	FC Libourne	1
+Lisa Mina	Stade Bordelais	1
+Naomie Laubian	Girondins Bordeaux	1

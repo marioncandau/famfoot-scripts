@@ -9,13 +9,13 @@ Chelsea Copeman	US Nantiat	2
 Mélina Ha	US Nantiat	2
 Hayet Taleb	US Nantiat	1
 Drissia Palas	US Nantiat	1
-Rebecca Croizard	Poitiers 3 Cités	1
-Anaïs Merigout	Poitiers 3 Cités	1
+Rebecca Croizard	Poitiers 3 Cités	2
+Anaïs Merigout	Poitiers 3 Cités	2
 Alisson Beaulieu	Poitiers 3 Cités	1
 Agathe Felden	Poitiers 3 Cités	1
 Massecilia Aït-Ouarab	FCC Oradour	1
 Nadia Péré	US Nantiat	1
-Alexane Bureau	ES Guérêt	3
+Alexane Bureau	ES Guérêt	4
 Marion Martel	ESA Brive	1
 Annabelle Hardy Pouyade	ESA Brive	2
 Emilie Ceyrat	ESA Brive	2
@@ -30,3 +30,10 @@ Anaïs Mertz	La Souterraine	2
 Amandine Deniaud	La Souterraine	1
 Augustine Laurent	La Souterraine	1
 Laure Boissou	FCC Oradour	1
+Manon Demeurant	Niort St Florent	2
+Aurane Riffe	Parthenay Viennay	1
+Mila Bodin	Poitiers 3 Cités	1
+Léa Charabie	Poitiers 3 Cités	1
+Claire Chambon	La Souterraine	2
+Marie Bideaud	La Souterraine	1
+Laura Menudier	La Souterraine	2

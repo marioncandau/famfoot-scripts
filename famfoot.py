@@ -137,16 +137,16 @@ def gather_matchs(page, date, link, coupe, isRes):
         if (score_current == " ?" or score_current == ""):
             pos3 = page.find("Report", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "Report&eacute"
+                score_current = "Report&eacute;"
             pos3 = page.find("Non-jou", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "Non jou&eacute"
+                score_current = "Non jou&eacute;"
             pos3 = page.find("serve", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "R&eacuteserve"
+                score_current = "R&eacute;serve"
             pos3 = page.find("Arr", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "Arr&ecirct&eacute"
+                score_current = "Arr&ecirct&eacute;"
         match.score = score_current
         score_current = ""
             

@@ -1,3 +1,6 @@
+*  Coupe de France f&eacute;minine
+0coupe-de-france-feminine
+https://lfna.fff.fr/competitions/?id=373172&poule=1&phase=1&type=cp&tab=resultat
 *  Coupe de Nouvelle Aquitaine f&eacute;minine
 0coupe-de-nouvelle-aquitaine-feminine
 https://lfna.fff.fr/competitions/?id=373280&poule=1&phase=1&type=cp&tab=resultat
@@ -247,12 +250,15 @@ https://dordogne-perigord.fff.fr/competitions/?id=369124&poule=1&phase=3&type=ch
 /* U11F-U13F Dordogne Lot-et-Garonne - Poule B
 0u11f-u13f-dordogne-lot-et-garonne
 https://dordogne-perigord.fff.fr/competitions/?id=369124&poule=2&phase=3&type=ch&tab=calendar
-/* U14F-U17F Dordogne Lot-et-Garonne - Poule A
-0u14f-u17f-dordogne-lot-et-garonne
-https://dordogne-perigord.fff.fr/competitions/?id=369123&poule=1&phase=3&type=ch&tab=calendar
-/* U14F-U17F Dordogne Lot-et-Garonne - Poule B
-0u14f-u17f-dordogne-lot-et-garonne
-https://dordogne-perigord.fff.fr/competitions/?id=369123&poule=2&phase=3&type=ch&tab=calendar
+/* U14F-U17F Dordogne  - Poule A
+0u14f-u17f-dordogne
+https://dordogne-perigord.fff.fr/competitions/?id=380058&poule=1&phase=1&type=ch&tab=calendar
+/* U14F-U17F Dordogne  - Poule B
+0u14f-u17f-dordogne
+https://dordogne-perigord.fff.fr/competitions/?id=380058&poule=2&phase=1&type=ch&tab=calendar
+/* U14F-U17F Dordogne  - Poule C
+0u14f-u17f-dordogne
+https://dordogne-perigord.fff.fr/competitions/?id=380058&poule=3&phase=1&type=ch&tab=calendar
 /* U13F Brassage Gironde - Poule A
 0u13f-brassage-gironde
 https://gironde.fff.fr/competitions/?id=376612&poule=1&phase=1&type=ch&tab=calendar
@@ -289,6 +295,9 @@ https://gironde.fff.fr/competitions/?id=376611&poule=2&phase=1&type=ch&tab=calen
 /* U17F D&eacute;partemental 2 Gironde - Poule Unique
 0u17f-departemental-2-gironde
 https://gironde.fff.fr/competitions/?id=372358&poule=1&phase=1&type=ch&tab=calendar
+/* U14F-U17F Lot-et-Garonne - Poule Unique
+0u14f-u17f-lot-et-garonne
+https://lot-et-garonne.fff.fr/competitions/?id=380201&poule=1&phase=1&type=ch&tab=calendar
 /* U13F &agrave; 8 Landes Pyr&eacute;n&eacute;es Atlantiques - Poule A
 0u13F-a-8-pyrenees-atlantiques
 https://footpyr64.fff.fr/competitions/?id=380020&poule=1&phase=1&type=ch&tab=calendar
