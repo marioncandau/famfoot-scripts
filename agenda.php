@@ -88,7 +88,7 @@ if ($fp)
 					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."', score = '".$j->{'score'}."', forfait_equipe1 = ".$j->{'forfait1'}.", forfait_equipe2 = ".$j->{'forfait2'}.", forfaitgeneral1 = ".$j->{'forfaitgeneral1'}.", forfaitgeneral2 = ".$j->{'forfaitgeneral2'}." WHERE matchid = ".$j->{'numero'});
 				}
 				else {
-					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."', equipe1='".$j->{'equipe1'}."', equipe2='".$j->{'equipe2'}."', equipe1_id=".$j->{'equipe1_id'}.", equipe2_id=".$j->{'equipe2_id'}.", WHERE matchid = ".$j->{'numero'});
+					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."', equipe1='".$j->{'equipe1'}."', equipe2='".$j->{'equipe2'}."', equipe1_id=".$j->{'equipe1_id'}.", equipe2_id=".$j->{'equipe2_id'}." WHERE matchid = ".$j->{'numero'});
 				}
 			}
 			else {
