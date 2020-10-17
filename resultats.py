@@ -22,11 +22,14 @@ def build_tab_res(html, url, g, bonnedate, champ_name, coupe, slug):
                 g.write("{");
                 datetow = str(t.date.encode('utf-8'))[2:-1].replace("\\xc3\\xa9", "&eacute;")
                 g.write('"date": "' + datetow + '",  ');
+                g.write('"journee": ' + str(t.journee) + ', ')
                 if(datetow not in datew):
                     datew.append(datetow);
                 g.write('"numero": ' + str(t.numero) + ', ');
                 g.write('"equipe1": "' + t.equipe1.replace("\\xc3\\xa9", "&eacute;").upper().replace("\\XC3\\X89", "&Eacute;").replace("\\XC3\\X88", "&Egrave;").replace("\\xc3\\xa8", "&egrave;") + '", ');
                 g.write('"equipe2": "' + t.equipe2.replace("\\xc3\\xa9", "&eacute;").upper().replace("\\XC3\\X89", "&Eacute;").replace("\\XC3\\X88", "&Egrave;").replace("\\xc3\\xa8", "&egrave;") + '", ');
+                g.write('"equipe1_id": ' + str(t.equipe1_id) + ', ')
+                g.write('"equipe2_id": ' + str(t.equipe2_id) + ', ')
                 g.write('"score": "' + t.score + '", ');
                 g.write('"forfait1": ' + str(int(t.forfait1)) + ', ');
                 g.write('"forfait2": ' + str(int(t.forfait2)) + ', ');

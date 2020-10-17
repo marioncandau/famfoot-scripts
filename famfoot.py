@@ -27,9 +27,12 @@ tabmois = ['janvier', 'fevrier', 'mars', 'avril', 'mai', 'juin', 'juillet', 'aou
 class matchClass:
     def __init__(self):
         self.date = ""
+        self.journee = 0
         self.numero = 0
         self.equipe1 = ""
         self.equipe2 = ""
+        self.equipe1_id = 0
+        self.equipe2_id = 0
         self.score = ""
         self.forfait1 = False
         self.forfait2 = False
@@ -103,6 +106,10 @@ def gather_matchs(page, date, link, coupe, isRes):
         pos1 = page.rfind("match_id=", 0, pos) + len("match_id=")
         pos2 = min(page.find("\"", pos1), page.find("&", pos1))
         match.numero = int(page[pos1:pos2])
+        posid = page.rfind("<a href=", 0, pos) + len("<a href=")
+        linkmatch = retrieve_linkmatch(page, posid, link)
+        if(coupe == 0):
+            match.journee = retrieve_journee(linkmatch)
         pos = pos1
         pos1 = page.find("equipe1", pos)
         i = page.find("class=\"name", pos1)
@@ -130,6 +137,7 @@ def gather_matchs(page, date, link, coupe, isRes):
             club_current = "Exempt"
         match.equipe1 = club_current
         club_current = ""
+        match.equipe1_id = equipe_id(linkmatch, "team1")
 
         #recuperer le score
         i = page.find(score_match, i)
@@ -173,6 +181,7 @@ def gather_matchs(page, date, link, coupe, isRes):
         if(club_current == "empt"):
             club_current = "Exempt"
         match.equipe2 = club_current
+        match.equipe2_id = equipe_id(linkmatch, "team2")
         matchs_list.append(match)
         club_current = ""
         pos = page.find(date, i)
@@ -321,6 +330,38 @@ def add_classement(club, html):
     if(res == club):
         res = 0
     return(res)
+
+def retrieve_linkmatch(page, posid, link):
+    pos = page.find(">", posid) -1
+    linkmatch = page[posid+1:pos]
+    pos2 = link.find("fff.fr") + len("fff.fr")
+    linkmatch = link[0:pos2]+ linkmatch
+    linkmatch = linkmatch.replace(" ", "%20").replace("è", "&egrave;")
+    req = urllib.request.Request(linkmatch, headers={'User-Agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'})
+    response = urllib.request.urlopen(req)
+    html = str(response.read().decode('utf-8'))
+    return(html)
+
+def equipe_id(linkmatch, team):
+    pos = linkmatch.find(team);
+    pos2 = linkmatch.rfind("scl=", 0, pos) + len("scl=");
+    pos3 = linkmatch.find('"', pos2);
+    if(pos2 < pos3):
+        equipeid = int(linkmatch[pos2:pos3])
+    else:
+        equipeid = 0
+    return(equipeid)
+
+def retrieve_journee(linkmatch):
+    pos = linkmatch.find('Journ')+ len('Journee ');
+    pos1 = pos
+    while (linkmatch[pos1] != " "):
+        pos1 = pos1 + 1
+
+    jour = int(linkmatch[pos:pos1])
+    return(jour)
+    
+    
 
 
 
