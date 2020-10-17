@@ -82,9 +82,12 @@ if ($fp)
 				if(($j->{'score'} != " ?") or (($j->{'score'} == " ?") and (($row['score'] == 'Report&eacute') or ($row['score'] == 'Report&eacute;')))) {
 					$q = $bdd->query("UPDATE matchs SET score = '".$j->{'score'}."', forfait_equipe1 = ".$j->{'forfait1'}.", forfait_equipe2 = ".$j->{'forfait2'}.", forfaitgeneral1 = ".$j->{'forfaitgeneral1'}.", forfaitgeneral2 = ".$j->{'forfaitgeneral2'}." WHERE matchid = '".$j->{'numero'}."'");
 				}
+				else {
+					$q = $bdd->query("UPDATE matchs SET date = '".$j->{'date'}."', equipe1='".$j->{'equipe1'}."', equipe2='".$j->{'equipe2'}."', equipe1_id=".$j->{'equipe1_id'}.", equipe2_id=".$j->{'equipe2_id'}.", WHERE matchid = ".$j->{'numero'});
+				}
 			}
 			else {
-				$q2 = $bdd->query("INSERT INTO matchs (matchid, competition, compet_slug, date, equipe1, equipe2, forfait_equipe1, forfait_equipe2, forfaitgeneral1, forfaitgeneral2, place1, place2, score, coupe) VALUES ('".$j->{'numero'}."', '".$j->{'competition'}."', '".$j->{'compet_slug'}."', '".$j->{'date'}."', '".$j->{'equipe1'}."', '".$j->{'equipe2'}."', ".$j->{'forfait1'}.", ".$j->{'forfait2'}.", ".$j->{'forfaitgeneral1'}.", ".$j->{'forfaitgeneral2'}.", ".$j->{'place1'}.", ".$j->{'place2'}.", '".$j->{'score'}."', ".$j->{'coupe'}.")");
+				$q2 = $bdd->query("INSERT INTO matchs (matchid, competition, compet_slug, date, journee, equipe1, equipe2, equipe1_id, equipe2_id, forfait_equipe1, forfait_equipe2, forfaitgeneral1, forfaitgeneral2, place1, place2, score, coupe) VALUES ('".$j->{'numero'}."', '".$j->{'competition'}."', '".$j->{'compet_slug'}."', '".$j->{'date'}."', ".$j->{'journee'}.", '".$j->{'equipe1'}."', '".$j->{'equipe2'}."', ".$j->{'equipe1_id'}.", ".$j->{'equipe2_id'}.", ".$j->{'forfait1'}.", ".$j->{'forfait2'}.", ".$j->{'forfaitgeneral1'}.", ".$j->{'forfaitgeneral2'}.", ".$j->{'place1'}.", ".$j->{'place2'}.", '".$j->{'score'}."', ".$j->{'coupe'}.")");
 			}
 		}
 	}
