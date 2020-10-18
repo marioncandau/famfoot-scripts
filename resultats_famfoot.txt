@@ -259,6 +259,9 @@ https://dordogne-perigord.fff.fr/competitions/?id=380058&poule=2&phase=1&type=ch
 /* U14F-U17F Dordogne  - Poule C
 0u14f-u17f-dordogne
 https://dordogne-perigord.fff.fr/competitions/?id=380058&poule=3&phase=1&type=ch&tab=calendar
+/* U11F Gironde - Poule A
+0u11f-gironde
+https://gironde.fff.fr/competitions/?id=379219&poule=1&phase=1&type=ch&tab=calendar
 /* U13F Brassage Gironde - Poule A
 0u13f-brassage-gironde
 https://gironde.fff.fr/competitions/?id=376612&poule=1&phase=1&type=ch&tab=calendar
@@ -387,7 +390,7 @@ https://dordogne-perigord.fff.fr/competitions/?id=380112&poule=1&phase=1&type=cp
 https://gironde.fff.fr/competitions/?id=368231&poule=1&phase=1&type=cp&tab=resultat
 *  Coupe de Gironde &agrave; 8
 0coupe-de-gironde-a-8
-https://gironde.fff.fr/competitions/?id=368232&poule=1&phase=1&type=cp&tab=resultat
+https://gironde.fff.fr/competitions/?id=375659&poule=1&phase=1&type=cp&tab=resultat
 *  Coupe U17F Gironde
 0coupe-u17f-gironde
 https://gironde.fff.fr/competitions/?id=368234&poule=1&phase=1&type=cp&tab=resultat
@@ -426,4 +429,4 @@ https://foot86.fff.fr/competitions/?id=365119&poule=1&phase=1&type=cp&tab=result
 https://foot87.fff.fr/competitions/?id=364775&poule=1&phase=1&type=cp&tab=resultat
 *  Coupe f&eacute;minine &agrave; 8 de la Haute Vienne
 0coupe-a-8-haute-vienne
-https://foot87.fff.fr/competitions/?id=364774&poule=1&phase=1&type=cp&tab=resultat
+https://foot87.fff.fr/competitions/?id=374600&poule=1&phase=1&type=cp&tab=resultat

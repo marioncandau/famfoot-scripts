@@ -26,8 +26,8 @@ def build_tab_res(html, url, g, bonnedate, champ_name, coupe, slug):
                 if(datetow not in datew):
                     datew.append(datetow);
                 g.write('"numero": ' + str(t.numero) + ', ');
-                g.write('"equipe1": "' + t.equipe1.replace("\\xc3\\xa9", "&eacute;").upper().replace("\\XC3\\X89", "&Eacute;").replace("\\XC3\\X88", "&Egrave;").replace("\\xc3\\xa8", "&egrave;") + '", ');
-                g.write('"equipe2": "' + t.equipe2.replace("\\xc3\\xa9", "&eacute;").upper().replace("\\XC3\\X89", "&Eacute;").replace("\\XC3\\X88", "&Egrave;").replace("\\xc3\\xa8", "&egrave;") + '", ');
+                g.write('"equipe1": "' + str(t.equipe1.encode('utf-8'))[2:-1].replace("\\xc3\\xa9", "&eacute;").upper().replace("\\XC3\\X89", "&Eacute;").replace("\\XC3\\X88", "&Egrave;").replace("\\xc3\\xa8", "&egrave;") + '", ');
+                g.write('"equipe2": "' + str(t.equipe2.encode('utf-8'))[2:-1].replace("\\xc3\\xa9", "&eacute;").upper().replace("\\XC3\\X89", "&Eacute;").replace("\\XC3\\X88", "&Egrave;").replace("\\xc3\\xa8", "&egrave;") + '", ');
                 g.write('"equipe1_id": ' + str(t.equipe1_id) + ', ')
                 g.write('"equipe2_id": ' + str(t.equipe2_id) + ', ')
                 g.write('"score": "' + t.score + '", ');
@@ -71,22 +71,35 @@ for line in f:
             response = urllib.request.urlopen(req);
         except:
             print("erreur on line: " + line);
-            time.sleep(40);
-            response = urllib.request.urlopen(req);
+            time.sleep(4);
+            try:
+                response = urllib.request.urlopen(req);
+            except:
+                if(datefile):
+                    datefile.write(str(datew));
+                    datefile.close();
+                raise
         if(response != 0):
             html = str(response.read().decode('utf-8'));
             if(coupe == 1):
-                k = famfoot.retrieve_tour(html);
+                k = famfoot.retrieve_tour(html).replace("é", "&eacute;");
                 champ_name = champ_name + " - " + k;
             g = open("resultat.json", "a");
             bonnedate = famfoot.previous_week_end();
-            build_tab_res(html, line, g, bonnedate, champ_name, coupe, slug);
+            try:
+                build_tab_res(html, line, g, bonnedate, champ_name, coupe, slug);
+            except:
+                if(datefile):
+                    datefile.write(str(datew));
+                    datefile.close();
+                raise
             g.close();
 
-datefile.write(str(datew));
+if(datefile):
+    datefile.write(str(datew));
+    datefile.close();
 g.close();
 f.close();
-datefile.close();
 
 
 

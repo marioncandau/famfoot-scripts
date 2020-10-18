@@ -2,7 +2,7 @@ Delphine Marot	ES Eysines	2
 Pauline Nadol	ES Eysines	4
 Lilou Margalef	ES Eysines	1
 Assia Razak	ASMUR	1
-Laetitia Gueler	ASMUR	1
+Laetitia Gueler	ASMUR	2
 Manon Dufilh	ASMUR	1
 Sarah Chige	ASMUR	3
 Laura Dormal	ES Montoise	5
@@ -49,3 +49,7 @@ Linda Gargat	FC Marmande	1
 Mélanie Toto	ES Canéjan	1
 Nina Marguerettaz	SU Agen	1
 Mylène Ferrandon	FC Talence	1
+Estelle Besnard	ASMUR	3
+Winona Grand Emilie	ASMUR	2
+Karene Millas	ASMUR	1
+Marcellia Virenque	ASMUR	1

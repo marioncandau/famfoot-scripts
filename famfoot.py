@@ -336,7 +336,7 @@ def retrieve_linkmatch(page, posid, link):
     linkmatch = page[posid+1:pos]
     pos2 = link.find("fff.fr") + len("fff.fr")
     linkmatch = link[0:pos2]+ linkmatch
-    linkmatch = linkmatch.replace(" ", "%20").replace("è", "&egrave;")
+    linkmatch = linkmatch.replace(" ", "%20").replace("è", "&egrave;").replace("é", "&eacute;")
     req = urllib.request.Request(linkmatch, headers={'User-Agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'})
     response = urllib.request.urlopen(req)
     html = str(response.read().decode('utf-8'))
