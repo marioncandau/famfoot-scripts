@@ -1,6 +1,6 @@
 ﻿Alyssia Moyan	Bussac Forêt	2
-Clarisse Delannoy	Bussac Forêt	3
-Sandra Bernard	Bussac Forêt	4
+Clarisse Delannoy	Bussac Forêt	6
+Sandra Bernard	Bussac Forêt	5
 Laura Gauthier	UES Montmorillon	7
 Jessica Caloin	Limoges Football	7
 Marie Cécile Lionet	Limoges Football	1
@@ -16,8 +16,8 @@ Ines Kefif	Chatellerault SO	1
 Carole Flageul	Chatellerault SO	1
 Orane Croizard	Poitiers 3 Cités	5
 Justine Deschamps	Poitiers 3 Cités	1
-Manon Chabanas Defrance	ASJ Soyaux	1
-Lina Plasse	ASJ Soyaux	1
+Manon Chabanas Defrance	ASJ Soyaux	2
+Lina Plasse	ASJ Soyaux	2
 Juliette Belsoeur	Poitiers 3 Cités	1
 Justine Baucher	Poitiers 3 Cités	1
 Laurine Bruyère	Chatellerault SO	1
@@ -25,7 +25,7 @@ Delphine Cottineau	UES Montmorillon	2
 Prescilla Campa	UES Montmorillon	1
 Noélie Morsanic	Trélissac FC	4
 Latifah Abdu	ASJ Soyaux	4
-Laura Camus	ASJ Soyaux	2
+Laura Camus	ASJ Soyaux	3
 Audrey Bernard	Chatellerault SO	1
 Margot Gellé	FC Bressuire	1
 Marion Richard	Bussac Foret	3
@@ -42,3 +42,4 @@ Tiphaine Chaigneau	Poitiers 3 Cités	1
 Louise Desbordes	UES Montmorillon	1
 Camille Gilbert	Chatellerault SO	1
 Laura Urbanovsky	Chatellerault SO	1
+Victoria Girault-Ravettlat	FC Bressuire	1

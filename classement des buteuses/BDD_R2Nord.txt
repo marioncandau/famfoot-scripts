@@ -6,7 +6,7 @@ Nawelle Benhebba	FCC Oradour	1
 Manon Lienhart	FCC Oradour	1
 Anaïs Couratin	FCC Oradour	5
 Chelsea Copeman	US Nantiat	2
-Mélina Ha	US Nantiat	2
+Mélina Bach	US Nantiat	3
 Hayet Taleb	US Nantiat	1
 Drissia Palas	US Nantiat	1
 Rebecca Croizard	Poitiers 3 Cités	2
@@ -17,7 +17,7 @@ Massecilia Aït-Ouarab	FCC Oradour	1
 Nadia Péré	US Nantiat	1
 Alexane Bureau	ES Guérêt	4
 Marion Martel	ESA Brive	1
-Annabelle Hardy Pouyade	ESA Brive	2
+Annabelle Hardy Pouyade	ESA Brive	3
 Emilie Ceyrat	ESA Brive	2
 Sandy Hebrard	ESA Brive	1
 Lucie Géraud	ESA Brive	1
@@ -37,3 +37,5 @@ Léa Charabie	Poitiers 3 Cités	1
 Claire Chambon	La Souterraine	2
 Marie Bideaud	La Souterraine	1
 Laura Menudier	La Souterraine	2
+Alexandra Meynard	ESA Brive	1
+Mylène Guitard	La Souterraine	2

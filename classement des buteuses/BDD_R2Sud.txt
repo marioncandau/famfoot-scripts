@@ -6,7 +6,7 @@ Laetitia Gueler	ASMUR	2
 Manon Dufilh	ASMUR	1
 Sarah Chige	ASMUR	3
 Laura Dormal	ES Montoise	5
-Diana Candido	ES Montoise	2
+Diana Candido	ES Montoise	4
 Christelle Gourdon	ES Montoise	2
 Amély Denis	UA Cognac	2
 Amélie Menier	CS Saint Michel	3
@@ -20,18 +20,18 @@ Emma Dupouy	ES Eysines	1
 Véronique Auer	ES Eysines	1
 Carole Thual	Mérignac Arlac	5
 Léa Palfray	Mérignac Arlac	3
-Manon Correia	Mérignac Arlac	3
+Manon Correia	Mérignac Arlac	8
 Flora Aksas	Mérignac Arlac	1
 Léa Raen	Mérignac Arlac	1
-Jade Mascle	ES Canéjan	2
+Jade Mascle	ES Canéjan	3
 Sophie Blanco	ES Montoise	1
 Alizé Rinaldi	UA Cognac	1
 Sarah Oucif	UA Cognac	1
 Ezilda Bastié	UA Cognac	1
-Laura Lodetti	FC Marmande	3
+Laura Lodetti	FC Marmande	4
 Kim Bares	FC Marmande	1
 Laura Cejudo	FC Talence	2
-Jessica Galvao	FC Talence	1
+Jessica Galvao	FC Talence	2
 Charlène Renard	FC Talence	1
 Blandine de Sousa	Mérignac Arlac	4
 Lina Benaissa	Mérignac Arlac	3
@@ -52,4 +52,14 @@ Mylène Ferrandon	FC Talence	1
 Estelle Besnard	ASMUR	3
 Winona Grand Emilie	ASMUR	2
 Karene Millas	ASMUR	1
-Marcellia Virenque	ASMUR	1
+Marie Chauvet	ES Montoise	2
+Gladys Dubos	ES Montoise	1
+Amina El Ouardani	ES Montoise	1
+Xowi Wazana	SU Agen	1
+Marcellia Virenque	ASMUR	4
+Dylanie Valladon	FC Talence	1
+Déborah Neret	FC Marmande	1
+Skye Cross	FC Marmande	1
+Pauline Lacour	CS St Michel	1
+Laura Bardet	CS St Michel	1
+Julie Novo	ES Canéjan	1
