@@ -3,7 +3,7 @@
 try
 {
 	$pdo_options[PDO::ATTR_ERRMODE] = PDO::ERRMODE_EXCEPTION;
-	$bdd = new PDO('mysql:host=db966.1and1.fr;dbname=db208426819', 'dbo208426819', 'foTbal:8', $pdo_options);
+	$bdd = new PDO('mysql:host=localhost;dbname=famfoot_db', 'marion', 'mySqlfoTbal:8', $pdo_options);
 }
 catch (Exception $e)
 {
@@ -49,7 +49,7 @@ echo shell_exec("python3 resultats.py 2>&1");
 try
 {
 	$pdo_options[PDO::ATTR_ERRMODE] = PDO::ERRMODE_EXCEPTION;
-	$bdd = new PDO('mysql:host=db966.1and1.fr;dbname=db208426819', 'dbo208426819', 'foTbal:8', $pdo_options);
+	$bdd = new PDO('mysql:host=localhost;dbname=famfoot_db', 'marion', 'mySqlfoTbal:8', $pdo_options);
 }
 catch (Exception $e)
 {
@@ -96,4 +96,4 @@ if ($fp)
 
 ?>
 
-<meta http-equiv="Refresh" content="0;url=http://www.famfoot.fr/resultats">
+<meta http-equiv="Refresh" content="0;url=https://www.famfoot.fr/resultats">

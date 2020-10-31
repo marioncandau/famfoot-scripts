@@ -236,9 +236,10 @@ function retrieve_tour($page) {
 	while ($page[$i] == " ") {
 		$i = $i + 1;
 	}
-	for ($j = $i; $j < $pos1; $j++) {
-		$tour = $page[$j];
-	}
+	echo $i;
+	echo "<br>";
+	echo $pos1;
+	$tour = substr($page, $i, $pos1 - $i);
 	
 	return $tour;
 }
