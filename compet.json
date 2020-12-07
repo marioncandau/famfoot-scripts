@@ -1,0 +1,227 @@
+{
+    "nom": "FEMININES A 11 DEPARTEMENTAL 1",
+    "slug": "feminines-a-11-departemental-1",
+    "id": 375861,
+    "type": "championnat",
+    "calendrier": {
+        "journees": [
+            {
+                "nom": "",
+                "numero": 1,
+                "matchs": [
+                    {
+                        "date": {
+                            "lisible": "dimanche 13 septembre 2020 - 13:00",
+                            "timestamp": 1600002000
+                        },
+                        "equipes": {
+                            "dom": {
+                                "nom": "LORMONT US",
+                                "id": 3451
+                            },
+                            "ext" : {
+                                "nom": "GRADIGNAN FC 2",
+                                "id": 186902
+                            }
+                        },
+                        "score": {
+                            "dom": 0,
+                            "ext": 12,
+                            "type": "joue",
+                            "forfait": {
+                                "match" : {
+                                    "dom": false,
+                                    "ext": false
+                                },
+                                "general": {
+                                    "dom": false,
+                                    "ext": false
+                                }
+                            },
+                            "penalite": {
+                                "dom": false,
+                                "ext": false
+                            },
+                            "prolongations": false,
+                            "TAB": {
+                                "statut": false,
+                                "dom": 0,
+                                "ext": 0
+                            }
+                        },
+                        "id": "22981545"
+                    },
+                    {
+                        "date": {
+                            "lisible": "dimanche 13 septembre 2020 - 15:00",
+                            "timestamp": 1600092000
+                        },
+                        "equipes": {
+                            "dom": {
+                                "nom": "ST J.DE LUZ",
+                                "id": 2603
+                            },
+                            "ext" : {
+                                "nom": "COQS ROUGES BX",
+                                "id": 2599
+                            }
+                        },
+                        "score": {
+                            "dom": 2,
+                            "ext": 2,
+                            "type": "joue",
+                            "forfait": {
+                                "match" : {
+                                    "dom": false,
+                                    "ext": false
+                                },
+                                "general": {
+                                    "dom": false,
+                                    "ext": false
+                                }
+                            },
+                            "penalite": {
+                                "dom": false,
+                                "ext": false
+                            },
+                            "prolongations": false,
+                            "TAB": {
+                                "statut": false,
+                                "dom": 0,
+                                "ext": 0
+                            }
+                        },
+                        "id": "22981541"
+                    },
+                    {
+                        "date": {
+                            "lisible": "dimanche 13 septembre 2020 - 15:00",
+                            "timestamp": 1600092000
+                        },
+                        "equipes": {
+                            "dom": {
+                                "nom": "SUD GIRONDE ENT",
+                                "id": 169306
+                            },
+                            "ext" : {
+                                "nom": "LUSITANOS CENON AS",
+                                "id": 100717
+                            }
+                        },
+                        "score": {
+                            "dom": 3,
+                            "ext": 0,
+                            "type": "joue",
+                            "forfait": {
+                                "match" : {
+                                    "dom": false,
+                                    "ext": false
+                                },
+                                "general": {
+                                    "dom": false,
+                                    "ext": false
+                                }
+                            },
+                            "penalite": {
+                                "dom": false,
+                                "ext": false
+                            },
+                            "prolongations": false,
+                            "TAB": {
+                                "statut": false,
+                                "dom": 0,
+                                "ext": 0
+                            }
+                        },
+                        "id": "22981539"
+                    },
+                    {
+                        "date": {
+                            "lisible": "dimanche 13 septembre 2020 - 15:00",
+                            "timestamp": 1600092000
+                        },
+                        "equipes": {
+                            "dom": {
+                                "nom": "BASSIN ARCACHON ENT",
+                                "id": 176849
+                            },
+                            "ext" : {
+                                "nom": "MERIGNAC SA",
+                                "id": 2623
+                            }
+                        },
+                        "score": {
+                            "dom": 3,
+                            "ext": 0,
+                            "type": "joue",
+                            "forfait": {
+                                "match" : {
+                                    "dom": false,
+                                    "ext": true
+                                },
+                                "general": {
+                                    "dom": false,
+                                    "ext": false
+                                }
+                            },
+                            "penalite": {
+                                "dom": false,
+                                "ext": false
+                            },
+                            "prolongations": false,
+                            "TAB": {
+                                "statut": false,
+                                "dom": 0,
+                                "ext": 0
+                            }
+                        },
+                        "id": "22981547"
+                    },
+                    {
+                        "date": {
+                            "lisible": "dimanche 13 septembre 2020 - 15:00",
+                            "timestamp": 1600092000
+                        },
+                        "equipes": {
+                            "dom": {
+                                "nom": "BAYONNE 2",
+                                "id": 2625
+                            },
+                            "ext" : {
+                                "nom": "LA BREDE FC",
+                                "id": 2652
+                            }
+                        },
+                        "score": {
+                            "dom": 12,
+                            "ext": 0,
+                            "type": "joue",
+                            "forfait": {
+                                "match" : {
+                                    "dom": false,
+                                    "ext": false
+                                },
+                                "general": {
+                                    "dom": false,
+                                    "ext": false
+                                }
+                            },
+                            "penalite": {
+                                "dom": false,
+                                "ext": false
+                            },
+                            "prolongations": false,
+                            "TAB": {
+                                "statut": false,
+                                "dom": 0,
+                                "ext": 0
+                            }
+                        },
+                        "id": "22981543"
+                    }
+                ]
+            }
+        ]
+    }
+
+}
