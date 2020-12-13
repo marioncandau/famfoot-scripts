@@ -1,14 +1,6 @@
 <?php 
 
-try
-{
-	$pdo_options[PDO::ATTR_ERRMODE] = PDO::ERRMODE_EXCEPTION;
-	$bdd = new PDO('mysql:host=localhost;dbname=famfoot_db', 'marion', 'mySqlfoTbal:8', $pdo_options);
-}
-catch (Exception $e)
-{
-	 die('Erreur : ' . $e->getMessage());
-}
+include_once("bdd.php");
 
 $fp = fopen ("resultats_famfoot.txt", "wb");
 
@@ -44,21 +36,7 @@ while($row = $query->fetch()) {
 
 fclose($fp);
 
-if($bdd){
-    $bdd = NULL;
-}
-
 echo shell_exec("python3 agenda.py 2>&1"); 
-
-try
-{
-	$pdo_options[PDO::ATTR_ERRMODE] = PDO::ERRMODE_EXCEPTION;
-	$bdd = new PDO('mysql:host=localhost;dbname=famfoot_db', 'marion', 'mySqlfoTbal:8', $pdo_options);
-}
-catch (Exception $e)
-{
-	 die('Erreur : ' . $e->getMessage());
-}
 
 $fp = fopen("agenda.json", "rb");
 $datep = fopen("date_agenda.json", "rb");

@@ -6,6 +6,8 @@ import time
 import famfoot_fff as famfoot
 import json
 
+# in development
+
 def parse_coupe(id, slug, phase, poule):
     listdates = []
     link = "https://www.fff.fr/coupes/fff/national/" + str(id) + "-" + slug + "/phase-" + str(phase) + "/poule-" + str(poule) + "/derniers-resultats?showForm=true&use_automatic_dates=1&type=full"

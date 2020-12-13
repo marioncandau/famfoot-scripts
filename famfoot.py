@@ -97,7 +97,6 @@ def gather_matchs(page, date, link, coupe, isRes):
     pos = header
     club_current = ""
     score_current = ""
-    length = len(page)
     html_class = html_classement(link)
     while(pos != -1):
         match = matchClass()
@@ -145,16 +144,16 @@ def gather_matchs(page, date, link, coupe, isRes):
         if (score_current == " ?" or score_current == ""):
             pos3 = page.find("Report", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "Report&eacute;"
+                score_current = "Report&eacute"
             pos3 = page.find("Non-jou", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "Non jou&eacute;"
+                score_current = "Non jou&eacute"
             pos3 = page.find("serve", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "R&eacute;serve"
+                score_current = "R&eacuteserve"
             pos3 = page.find("Arr", i)
             if (pos3 < i + 100 and pos3 != -1):
-                score_current = "Arr&ecirct&eacute;"
+                score_current = "Arr&ecirct&eacute"
         match.score = score_current
         score_current = ""
             
@@ -239,21 +238,21 @@ def retrieve_champ(page):
     return champ
 
 def retrieve_tour(page):
-    pos=page.find("<div class=\"date_tour\">") + len("<div class=\"date_tour\">") + 2;
+    pos=page.find("<div class=\"date_tour\">") + len("<div class=\"date_tour\">") + 2
     if(pos == len("<div class=\"date_tour\">") + 1):
         return ""
-    pos1=page.find("</div>", pos);
-    tour = "";
-    i = pos;
+    pos1=page.find("</div>", pos)
+    tour = ""
+    i = pos
     while(page[i] == " "):
-        i = i + 1;
-    k = pos1-1;
+        i = i + 1
+    k = pos1-1
     while(page[k] == " "):
-        k = k - 1;
+        k = k - 1
     for j in range(i, k+1):
-        tour+=page[j];
+        tour+=page[j]
     
-    return tour;
+    return tour
 
 def retrieve_ligue(url):
     i = 7
@@ -336,16 +335,16 @@ def retrieve_linkmatch(page, posid, link):
     linkmatch = page[posid+1:pos]
     pos2 = link.find("fff.fr") + len("fff.fr")
     linkmatch = link[0:pos2]+ linkmatch
-    linkmatch = linkmatch.replace(" ", "%20").replace("è", "&egrave;").replace("é", "&eacute;")
+    linkmatch = linkmatch.replace(" ", "%20").replace("è", "&egrave").replace("é", "&eacute")
     req = urllib.request.Request(linkmatch, headers={'User-Agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'})
     response = urllib.request.urlopen(req)
     html = str(response.read().decode('utf-8'))
     return(html)
 
 def equipe_id(linkmatch, team):
-    pos = linkmatch.find(team);
-    pos2 = linkmatch.rfind("scl=", 0, pos) + len("scl=");
-    pos3 = linkmatch.find('"', pos2);
+    pos = linkmatch.find(team)
+    pos2 = linkmatch.rfind("scl=", 0, pos) + len("scl=")
+    pos3 = linkmatch.find('"', pos2)
     if(pos2 < pos3):
         equipeid = int(linkmatch[pos2:pos3])
     else:
@@ -353,7 +352,7 @@ def equipe_id(linkmatch, team):
     return(equipeid)
 
 def retrieve_journee(linkmatch):
-    pos = linkmatch.find('Journ')+ len('Journee ');
+    pos = linkmatch.find('Journ')+ len('Journee ')
     pos1 = pos
     while (linkmatch[pos1] != " "):
         pos1 = pos1 + 1
